@@ -19,7 +19,7 @@
 - Input/output
 - Variabel
 - If-else
-- Loop (perulangan)
+- Loop (Perulangan)
 - Fungsi
 - Array
 ## Link Video Demo
