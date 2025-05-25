@@ -23,3 +23,4 @@
 - Fungsi
 - Array
 ## Link Video Demo
+- https://youtu.be/L2yp8JtSkqU?si=GLI6-G5XJ8Y6Yg2i
