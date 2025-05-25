@@ -6,9 +6,9 @@
 ## Identitas Kakak Tingkat
 - Nama: Haditio Sri Ramadhan
 - Angkatan: 2023
-- Program Studi: Pendidikan Sistem dan Teknologi
+- Program Studi: Pendidikan Sistem dan Teknologi Informasi
 ## Permintaan Program
-> "Kakak ingin dibuatkan program alarm peringatan sederhana."
+> "Kakak ingin dibuatkan program alarm peringatan bencana."
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
